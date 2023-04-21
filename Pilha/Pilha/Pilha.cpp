@@ -113,4 +113,4 @@ if (topo == NULL) {
 		free(del);
 	}
 }
-
+// finalizado
